@@ -1,0 +1,3 @@
+{
+	"resp": ["apk add subversion-libs libssh apr libpq mariadb-connector-c libidn && wget https://github.com/ZalexGUI/StrykerPro/blob/main/hydra?raw=true -O /usr/bin/hydra && chmod +x /usr/bin/hydra && echo Finished"]
+}
