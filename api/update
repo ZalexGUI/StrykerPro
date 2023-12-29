@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "version": "303",
+            "codename": "Magic",
+            "apk": "https://github.com/ZalexGUI/StrykerPro/blob/main/Stryker3.0.apk?raw=true",
+            "chroot32": "https://github.com/ZalexGUI/StrykerPro/releases/download/buta/chroot_32.zip?raw=true",
+            "chroot64": "https://github.com/ZalexGUI/StrykerPro/releases/download/buta/chroot_64.zip?raw=true"
+        }
+    ]
+}
